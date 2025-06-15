@@ -154,4 +154,4 @@ Contributions are welcome\! If you'd like to contribute to the development of So
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE) (add a `LICENSE` file to your repository with the MIT license content).
+This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE)
