@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed:
 
     ```bash
     git clone <repository_url>
-    cd <repository_name>
+    cd Pdf_assistant
     ```
 
     Replace `<repository_url>` with the URL of this GitHub repository and `<repository_name>` with the name of the cloned directory.
