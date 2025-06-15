@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
     Open your terminal or command prompt and run:
 
     ```bash
-    git clone <repository_url>
+    git clone (https://github.com/Kaizer321/Pdf_assistant/tree/main)
     cd Pdf_assistant
     ```
 
