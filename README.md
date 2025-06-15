@@ -2,7 +2,6 @@
 
 [](https://www.google.com/search?q=https://%3Cyour_streamlit_app_url_here%3E) Sonic is an intelligent AI assistant built with [Streamlit](https://streamlit.io/) and [OpenAI's Assistant API](https://platform.openai.com/docs/assistants), designed to help you interact with and extract insights from your Excel files. Simply upload your spreadsheets, and Sonic will answer your questions, provide relevant information, and even generate various types of graphs based on your data.
 
-**Proudly developed in Malakand, Khyber Pakhtunkhwa, Pakistan.** 🇵🇰
 
 -----
 
